@@ -48,7 +48,7 @@ http://52.78.79.190:8080/ch2/requestInfo?year=2018&month=10&day=1
 
 ## Tomcat의 내부 구조
   - Servlet ≒ Controller
-<a href='https://ifh.cc/v-F3z6b4' target='_blank'><img src='https://ifh.cc/g/F3z6b4.png' border='0'></a>
+<a href='https://ifh.cc/v-F3z6b4' target='_blank'><img src='https://ifh.cc/g/F3z6b4.png' border='0' style="width:80%;"></a>
 
 
 
@@ -128,7 +128,7 @@ HTTP 요청 메세지 - GET                                        HTTP 요청 �
 
 ## HTTP 메서드 - GET, POST
 
-<a href='https://ifh.cc/v-TVDkjl' target='_blank'><img src='https://ifh.cc/g/TVDkjl.png' border='0'></a>
+<a href='https://ifh.cc/v-TVDkjl' target='_blank'><img src='https://ifh.cc/g/TVDkjl.png' border='0' style="width:70%;"></a>
 
 
 
@@ -140,7 +140,7 @@ HTTP 요청 메세지 - GET                                        HTTP 요청 �
     -  문자만 있는 저장되어 있는 파일.
     -  숫자를 문자로 변환 후 쓴다.
 
-<a href='https://ifh.cc/v-bxcQTx' target='_blank'><img src='https://ifh.cc/g/bxcQTx.png' border='0'></a>
+<a href='https://ifh.cc/v-bxcQTx' target='_blank'><img src='https://ifh.cc/g/bxcQTx.png' border='0' style="width:70%;"></a>
 
 
 
@@ -148,7 +148,7 @@ HTTP 요청 메세지 - GET                                        HTTP 요청 �
   - 텍스트 기반 프로토콜에 바이너리 데이터 전송하기 위해 고안.
   - HTTP의 Content-Type 헤더에 사용. 데이터의 타입을 명시.
 
-<a href='https://ifh.cc/v-DQLRdC' target='_blank'><img src='https://ifh.cc/g/DQLRdC.png' border='0'></a>
+<a href='https://ifh.cc/v-DQLRdC' target='_blank'><img src='https://ifh.cc/g/DQLRdC.png' border='0' style="width:70%;"></a>
 
 
 
@@ -180,6 +180,6 @@ HTTP 요청 메세지 - GET                                        HTTP 요청 �
  (Base64  ↑          ↓ (Base64
   인코딩)  ↑          ↓  디코딩)
 ~~~    
-<a href='https://ifh.cc/v-0kLVtk' target='_blank'><img src='https://ifh.cc/g/0kLVtk.png' border='0'></a>
+<a href='https://ifh.cc/v-0kLVtk' target='_blank'><img src='https://ifh.cc/g/0kLVtk.png' border='0' style="width:50%;"></a>
 
 ~~~
