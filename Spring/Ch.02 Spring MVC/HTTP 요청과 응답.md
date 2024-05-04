@@ -57,9 +57,8 @@ http://52.78.79.190:8080/ch2/requestInfo?year=2018&month=10&day=1
   - 톰캣설치경로/conf/web.xml       :     Tomcat의 모든 web app의 공통 설정
   - 웹앱이름/WEB-INF/web.xml      :      web app의 개별 설정
 
-[참고] STS에서는  프로젝트/src/main/webapp/WEB-INF/web.xml
-
-    IntelliJ에서는 프로젝트 /src/main/webapp/WEB-INF/web.xml
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[참고] STS에서는  프로젝트/src/main/webapp/WEB-INF/web.xml
+</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IntelliJ에서는 프로젝트 /src/main/webapp/WEB-INF/web.xml
 
 
 
