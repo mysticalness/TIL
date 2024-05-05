@@ -6,6 +6,8 @@
 - [관심사의 분리, MVC 패턴 - 이론](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.02%20Spring%20MVC/02.%EA%B4%80%EC%8B%AC%EC%82%AC%EC%9D%98%20%EB%B6%84%EB%A6%AC%2C%20MVC%20%ED%8C%A8%ED%84%B4_%EC%9D%B4%EB%A1%A0.md)
 - [서블릿과 JSP](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.02%20Spring%20MVC/03.%EC%84%9C%EB%B8%94%EB%A6%BF%EA%B3%BC%20JSP.md)
 - [RequestParam과 @ModelAttribute](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.02%20Spring%20MVC/04.RequestParam%EA%B3%BC%20%40ModelAttribute.md)
+- [05.@GetMapping과 @PostMapping](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.02%20Spring%20MVC/05.%40GetMapping%EA%B3%BC%20%40PostMapping.md)
+- [06.Redirect와 Forward](https%3a%2f%2fgithub.com%2fmysticalness%2fTIL%2fblob%2fmain%2fSpring%2fCh.02+Spring+MVC%2f06.Redirect%ec%99%80+Forward)
 
   |&nbsp; `스프링의 정석 : 남궁성과 끝까지 간다` 내용 및 자료정리.
 
