@@ -8,6 +8,8 @@
 - [RequestParam과 @ModelAttribute](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.02%20Spring%20MVC/04.RequestParam%EA%B3%BC%20%40ModelAttribute.md)
 - [@GetMapping과 @PostMapping](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.02%20Spring%20MVC/05.%40GetMapping%EA%B3%BC%20%40PostMapping.md)
 - [Redirect와 Forward](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.02%20Spring%20MVC/06.Redirect%EC%99%80%20Forward.md)
+- [쿠키(Cookie란)](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.02%20Spring%20MVC/07.%ec%bf%a0%ed%82%a4(Cookie%eb%9e%80).md)
+- [세션(Session)](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.02%20Spring%20MVC/08.%ec%84%b8%ec%85%98(Session).md)
 
   |&nbsp; `스프링의 정석 : 남궁성과 끝까지 간다` 내용 및 자료정리.
 
