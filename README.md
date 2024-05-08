@@ -11,6 +11,7 @@
 - [쿠키(Cookie란?)](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.02%20Spring%20MVC/07.%ec%bf%a0%ed%82%a4(Cookie%eb%9e%80).md)
 - [세션(Session)](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.02%20Spring%20MVC/08.%ec%84%b8%ec%85%98(Session).md)
 - [예외 처리](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.02%20Spring%20MVC/09.%EC%98%88%EC%99%B8%20%EC%B2%98%EB%A6%AC.md)
+- [DispatcherServlet](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.02%20Spring%20MVC/DispatcherServlet.md)
 
   |&nbsp; `스프링의 정석 : 남궁성과 끝까지 간다` 내용 및 자료정리.
 
