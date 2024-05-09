@@ -12,6 +12,7 @@
 - [세션(Session)](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.02%20Spring%20MVC/08.%ec%84%b8%ec%85%98(Session).md)
 - [예외 처리](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.02%20Spring%20MVC/09.%EC%98%88%EC%99%B8%20%EC%B2%98%EB%A6%AC.md)
 - [DispatcherServlet](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.02%20Spring%20MVC/10.DispatcherServlet.md)
+- [데이터의 변환과 검증](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.02%20Spring%20MVC/11.%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%EB%B3%80%ED%99%98%EA%B3%BC%20%EA%B2%80%EC%A6%9D.md)
 
   |&nbsp; `스프링의 정석 : 남궁성과 끝까지 간다` 내용 및 자료정리.
 
