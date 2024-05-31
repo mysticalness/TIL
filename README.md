@@ -21,6 +21,7 @@
 - [Transaction, Commit, Rollback](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.03%20Spring%20DI%EC%99%80%20AOP/17.Transaction%2C%20Commit%2C%20Rollback.md)
 - [AOP의 개념과 용어](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.03%20Spring%20DI%EC%99%80%20AOP/18.AOP%EC%9D%98%20%EA%B0%9C%EB%85%90%EA%B3%BC%20%EC%9A%A9%EC%96%B4.md)
 - [서비스 계층의 분리와 @Transactional](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.03%20Spring%20DI%EC%99%80%20AOP/19.%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B3%84%EC%B8%B5%EC%9D%98%20%EB%B6%84%EB%A6%AC%EC%99%80%20%40Transactional.md)
+- [MyBatis](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.04%20MyBatis%EB%A1%9C%20%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EA%B5%AC%ED%98%84/20.MyBatis.md)
 
   |&nbsp; `스프링의 정석 : 남궁성과 끝까지 간다` 내용 및 자료정리.
 
