@@ -23,6 +23,7 @@
 - [서비스 계층의 분리와 @Transactional](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.03%20Spring%20DI%EC%99%80%20AOP/19.%EC%84%9C%EB%B9%84%EC%8A%A4%20%EA%B3%84%EC%B8%B5%EC%9D%98%20%EB%B6%84%EB%A6%AC%EC%99%80%20%40Transactional.md)
 - [MyBatis](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.04%20MyBatis%EB%A1%9C%20%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EA%B5%AC%ED%98%84/20.MyBatis.md)
 - [게시판 목록 만들기 & 페이징 & TDD](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.04%20MyBatis%EB%A1%9C%20%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EA%B5%AC%ED%98%84/21.%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EB%AA%A9%EB%A1%9D%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20%26%20%ED%8E%98%EC%9D%B4%EC%A7%95%20%26%20TDD.md)
+- [게시판 CRUD & 검색 기능](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.04%20MyBatis%EB%A1%9C%20%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EA%B5%AC%ED%98%84/22.%EA%B2%8C%EC%8B%9C%ED%8C%90%20CRUD%20%26%20%EA%B2%80%EC%83%89%20%EA%B8%B0%EB%8A%A5.md)
 
   |&nbsp; `스프링의 정석 : 남궁성과 끝까지 간다` 내용 및 자료정리.
 
