@@ -25,6 +25,7 @@
 - [게시판 목록 만들기 & 페이징 & TDD](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.04%20MyBatis%EB%A1%9C%20%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EA%B5%AC%ED%98%84/21.%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EB%AA%A9%EB%A1%9D%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20%26%20%ED%8E%98%EC%9D%B4%EC%A7%95%20%26%20TDD.md)
 - [게시판 CRUD & 검색 기능](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.04%20MyBatis%EB%A1%9C%20%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EA%B5%AC%ED%98%84/22.%EA%B2%8C%EC%8B%9C%ED%8C%90%20CRUD%20%26%20%EA%B2%80%EC%83%89%20%EA%B8%B0%EB%8A%A5.md)
 - [REST API와 Ajax](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.04%20MyBatis%EB%A1%9C%20%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EA%B5%AC%ED%98%84/23.REST%20API%EC%99%80%20Ajax.md)
+- [댓글 기능 구현 - DAO와 Service의 작성](https://github.com/mysticalness/TIL/blob/main/Spring/Ch.04%20MyBatis%EB%A1%9C%20%EA%B2%8C%EC%8B%9C%ED%8C%90%20%EA%B5%AC%ED%98%84/24.%EB%8C%93%EA%B8%80%20%EA%B8%B0%EB%8A%A5%20%EA%B5%AC%ED%98%84%20-%20DAO%EC%99%80%20Service%EC%9D%98%20%EC%9E%91%EC%84%B1.md)
 
   |&nbsp; `스프링의 정석 : 남궁성과 끝까지 간다` 내용 및 자료정리.
 
