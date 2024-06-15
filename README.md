@@ -34,5 +34,6 @@
 ## Git&Github
 
 - [버전 관리](https://github.com/mysticalness/TIL/blob/main/Git%26Github/%EB%B2%84%EC%A0%84%20%EA%B4%80%EB%A6%AC.md)
+- [revert, reset](https://github.com/mysticalness/TIL/blob/main/Git%26Github/revert,reset.md)
 
   |&nbsp; `모두의 깃&깃허브` 내용 및 자료정리.
