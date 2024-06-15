@@ -7,9 +7,9 @@
   * 만들어진 버전을 되돌리는 두 가지 방법
     * revert : 버전을 되돌린 새로운 버전 만들기
     * reset : 버전을 완전히 되돌리기
-      * **soft reset** : ~~작업 디렉터리에서 변경 사항 생성하기~~
-      * **mixed reset** : ~~스테이지로 추가하기~~ 
-      * **hard reset** : ~~저장소로 커밋하기~~ 
+      * **soft reset** :  ~~저장소로 커밋하기~~
+      * **mixed reset** :  ~~스테이지로 추가하기~~ 
+      * **hard reset** :  ~~작업 디렉터리에서 변경 사항 생성하기~~
 
 ## revert
 <a href='https://ifh.cc/v-qFvn48' target='_blank'><img src='https://ifh.cc/g/qFvn48.png' border='0'></a>
