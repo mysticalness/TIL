@@ -1,21 +1,15 @@
 
-
-# branch
-
+# 브랜치란: 브랜치를 나누어 관리하는 이유
 
 ## 브랜치(branch)
   * 영어로 나뭇가지
   * 브랜치는 버전을 여러 개의 흐름으로 관리하는 방법
   * 브랜치는 `버전의 분기`
 
-
-
 ## 브랜치를 사용하는 이유 : 브랜치가 없다면?
   * 서로의 작업과 전혀 관련 없는 부분, 같은 코드를 다르게 수정한 부분 혼재
   * 일일이 수작업으로 합쳐야 함
   * 때로는 서로의 코드를 합치다 실수가 생길 수도
-
-
 
 ## 브랜치로 문제 해결하기
   * 브랜치는 버전의 분기
@@ -30,7 +24,9 @@
 
 <a href='https://ifh.cc/v-N4Wkhh' target='_blank'><img src='https://ifh.cc/g/N4Wkhh.png' border='0'></a>
 
+<br>
 
+# 브랜치 나누기
 
 ## 브랜치의 이름
   * 최초의 브랜치, master 브랜치
@@ -61,5 +57,60 @@
     * 작업 디렉터리는 체크아웃한 브랜치의 모습으로 바뀜
 
 <a href='https://ifh.cc/v-HlWjPM' target='_blank'><img src='https://ifh.cc/g/HlWjPM.png' border='0'></a>
+
+<br>
+
+# 브랜치 합치기
+
+* 브랜치를 합친다. = 브랜치를 `병합(merge)`한다.
+* 빨리 감기 병합(fast-forward merge)
+
+<a href='https://ifh.cc/v-Xt5yKb' target='_blank'><img src='https://ifh.cc/g/Xt5yKb.png' border='0'></a>
+
+  * foo 브랜치가 뻗어 나오고, foo 브랜치에 커밋이 쌓이고, 병합되는 순간까지 `master 브랜치에 어떤 변화도 없었다.` 그래서 master 브랜치는 `마치 빨리감기`하듯 그저 foo 브랜치에서 추가된 커밋을 반영하기만 하면 된다.
+  * 변화가 없었던 브랜치가 `마치 빨리 감기 하듯` 업데이트되는 병합 기법을 `빨리 감기 병합(fast-forward merge)`이라고 한다.
+
+
+* 새로운 커밋 생성
+  * 그럼, 빨리감기 병합이 아닌 병합은?
+    * bar 브랜치에는 없는 커밋이 master 브랜치에 있고,
+master 브랜치에는 없는 커밋이 bar 브랜치에 있는 상태
+→ 두 브랜치를 병합한 `새로운 커밋`이 생성된다.
+
+<a href='https://ifh.cc/v-V6LTWy' target='_blank'><img src='https://ifh.cc/g/V6LTWy.png' border='0'></a>
+
+```
+TIP!
+
+브랜치를 삭제하려면 삭제하려는 브랜치가 아닌 다른 브랜치에 체크아웃되어 있어야 한다.
+즉, foo 브랜치를 삭제하려면 foo브랜치가 아닌 master브랜치 또는 bar브랜치로 체크아웃되어 있어야 한다.
+```
+
+<br>
+
+# 브랜치 충돌
+
+* 충돌
+  * 병합하려는 두 브랜치가 서로 같은 내용을 다르게 수정한 상황
+
+<a href='https://ifh.cc/v-jN2BFZ' target='_blank'><img src='https://ifh.cc/g/jN2BFZ.png' border='0'></a>
+
+  1. master 브랜치는 a.txt 파일의 첫 번째 줄을 B로 수정한 후 커밋
+  2. foo 브랜치는 a.txt 파일의 첫 번째 줄을 C로 수정한 다음 커밋
+  3. 충돌 발생
+
+```
+TIP!
+
+1.충돌을 해결한다(어떤 브랜치의 내용을 반영할지 직접 선별한다).
+2.다시 커밋한다.
+```
+
+* 충돌 해결하기
+  * 충돌 발생 시, 충돌이 발생한 파일의 `충돌을 해결한 뒤 다시 커밋` 해야만 브랜치가 올바로 병합됨.
+  * 충돌을 해결한다. = `같은 내용을 다르게 수정한 브랜치 중 어떤 브랜치 내용을 최종적으로 반영할지를 직접 선택하는 것.` 
+
+<a href='https://ifh.cc/v-8TcpWv' target='_blank'><img src='https://ifh.cc/g/8TcpWv.png' border='0'></a>
+
 
 
