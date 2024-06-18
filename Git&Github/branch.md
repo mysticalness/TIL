@@ -81,7 +81,6 @@ master 브랜치에는 없는 커밋이 bar 브랜치에 있는 상태
 
 ```
 TIP!
-
 브랜치를 삭제하려면 삭제하려는 브랜치가 아닌 다른 브랜치에 체크아웃되어 있어야 한다.
 즉, foo 브랜치를 삭제하려면 foo브랜치가 아닌 master브랜치 또는 bar브랜치로 체크아웃되어 있어야 한다.
 ```
@@ -101,7 +100,6 @@ TIP!
 
 ```
 TIP!
-
 1.충돌을 해결한다(어떤 브랜치의 내용을 반영할지 직접 선별한다).
 2.다시 커밋한다.
 ```
@@ -112,5 +110,16 @@ TIP!
 
 <a href='https://ifh.cc/v-8TcpWv' target='_blank'><img src='https://ifh.cc/g/8TcpWv.png' border='0'></a>
 
+<br>
 
+# 브랜치 재배치
+
+* rebase : 브랜치가 뻗어나온 기준점을 변경하는 것
+
+<a href='https://ifh.cc/v-pHZ7bJ' target='_blank'><img src='https://ifh.cc/g/pHZ7bJ.png' border='0'></a>
+
+```
+TIP!
+브랜치를 재배치하는 과정에서도 충돌 발생 할 수 있음. 충돌 해결 방법 동일.
+```
 
