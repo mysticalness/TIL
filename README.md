@@ -37,5 +37,6 @@
 - [revert, reset, stash](https://github.com/mysticalness/TIL/blob/main/Git%26Github/02.revert,reset,stash.md)
 - [branch](https://github.com/mysticalness/TIL/blob/main/Git%26Github/03.branch.md)
 - [Github](https://github.com/mysticalness/TIL/blob/main/Git%26Github/04.Github.md)
+- [깃 명령어(1) - 버전 만들기, 태그 관리하기]
 
   |&nbsp; `모두의 깃&깃허브` 내용 및 자료정리.
