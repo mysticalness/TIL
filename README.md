@@ -45,7 +45,7 @@
 
 
 ## React
-- [01.Basic - ReactJS로 Element 생성](https://github.com/mysticalness/TIL/blob/main/React/Basic.md)
+- [01.Basic - ReactJS로 Element 생성](https://github.com/mysticalness/TIL/blob/main/React/01.Basic.md)
 
 
   |&nbsp; `ReactJS로 영화 웹 서비스 만들기` 내용 및 자료정리.
