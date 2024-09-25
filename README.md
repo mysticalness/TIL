@@ -47,5 +47,6 @@
 - [Basic - ReactJS로 Element 생성](https://github.com/mysticalness/TIL/blob/main/React/01.Basic.md)
 - [JSX](https://github.com/mysticalness/TIL/blob/main/React/02.JSX.md)
 - [State](https://github.com/mysticalness/TIL/blob/main/React/03.State.md)
+- [Props](https://github.com/mysticalness/TIL/blob/main/React/04.Props.md)
 
   |&nbsp; `ReactJS로 영화 웹 서비스 만들기` 내용 및 자료정리.
