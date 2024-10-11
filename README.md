@@ -56,7 +56,10 @@
 - [Movie App (2)](<https://github.com/mysticalness/TIL/blob/main/React/10.movie-app(2).md>)
 - [Publishing](https://github.com/mysticalness/TIL/blob/main/React/11.Publishing.md)
 - [deploy result](https://InHyeKyeong.github.io/react-for-beginners)
-----
+
+##
+
 - [Component Life Cycle](https://github.com/mysticalness/TIL/blob/main/React/12.Component-Life-Cycle.md)
+- [Data Fetch](https://github.com/mysticalness/TIL/blob/main/React/13.Data-Fetch.md)
 
   |&nbsp; `ReactJS로 영화 웹 서비스 만들기` 내용 및 자료정리.
